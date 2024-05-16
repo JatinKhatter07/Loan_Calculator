@@ -6,7 +6,7 @@ I have used React to build Education-Loan Calculator. You can select what would 
 
 Finally, you can select the tenure of the loan amount, based on all the criteria pie chart would draw and inform you monthly EMI amount. Also, the pie chart will inform you on the principal and interest amount which you are going to pay. 
 
-#### [Live Site]()
+#### [Live Site]( https://loan-calculator-taupe.vercel.app/)
 
 ## Technologies Used
 
